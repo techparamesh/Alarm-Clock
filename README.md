@@ -7,4 +7,4 @@ Created With Python
 ## Procedure
 Clone this project using:
 
-''' git clone https://github.com/techparamesh/Alarm-Clock.git '''
+'git clone https://github.com/techparamesh/Alarm-Clock.git '
