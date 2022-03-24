@@ -6,6 +6,5 @@ Created With Python
 * Python: (3.6 - 3.8.5)
 ## Procedure
 Clone this project using:
-'''
-git clone https://github.com/techparamesh/Alarm-Clock.git
-'''
+
+''' git clone https://github.com/techparamesh/Alarm-Clock.git '''
